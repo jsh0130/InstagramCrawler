@@ -7,12 +7,11 @@ Instagram Insight Crawler
 그 후 스프레드 시트에 저장
 
 Crawling 18 new posts' insight(e.g. Likes, Comments, Used Tags, Uploaded Time, Profile Visit, etc.)<br>
-Saving in Google Spreadsheets
+Saving in Google Spreadsheets <br><br>
 
 
-
-
-
+인사이트 종류 : 컨텐츠 이름,	크롤링 날짜,	컨텐츠 업로드 날짜,	좋아요 수,	댓글 수,	다이렉트 메세지 수,	스크랩 된 횟수,	광고 누름,	프로필 방문,	웹사이트 방문,	이메일 보내기 버튼 누름,	도달한 계정,	노출,	노출-탐색탭,	노출-홈,	노출-해시태그,	노출-프로필,	노출-기타,	팔로우 획득,	광고 여부,	광고비,	사용된 태그 <br>
+Insights Type : Post Title, Crawling Date, Uploaded Date, Likes, Comments, DMs, Scrapted, Ad Click, Profile Visit, Website Tap, Email Button Tap, Accounts Reached, Impressions, Impressions from Explore, Impressions from Home, Impressions from Hashtag, Impressions from Profile, Impressions from Other, Follos From this Post, Ad or Not, Ad fee, Used Hashtags
 
 
 ~~~
